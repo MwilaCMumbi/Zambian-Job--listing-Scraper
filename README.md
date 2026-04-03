@@ -1,11 +1,11 @@
-# 🇿🇲 Sebenzani - Zambian Job Portal Scraper
+#  Zambian Job Portal Scraper
 
-**Sebenzani** (Nyanja for 'Get to Work') is a full-stack job aggregation application built entirely within the **Google Ecosystem** (Google Sheets and Google Apps Script).
+**This is a full-stack job aggregation application built entirely within the **Google Ecosystem** (Google Sheets and Google Apps Script).
 
 It demonstrates robust server-side logic (Scraping/Backend) and a dynamic, user-friendly client-side interface (Frontend).
 
 ## 🌍 Live Application
-✨ **See the Sebenzani Job Portal Live:** https://sites.google.com/view/sebenzani-com/home](https://sites.google.com/view/sebenzani-com/home
+✨ **See the Job Portal Live:** https://sites.google.com/view/sebenzani-com/home](https://sites.google.com/view/sebenzani-com/home
 
 ***
 
