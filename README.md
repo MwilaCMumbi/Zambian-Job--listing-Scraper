@@ -4,12 +4,12 @@
 
 It demonstrates robust server-side logic (Scraping/Backend) and a dynamic, user-friendly client-side interface (Frontend).
 
-## 🌍 Live Application
-✨ **See the Job Portal Live:** https://sites.google.com/view/sebenzani-com/home](https://sites.google.com/view/sebenzani-com/home
+##  Live Application
+**See the Job Portal Live:** https://sites.google.com/view/sebenzani-com/home](https://sites.google.com/view/sebenzani-com/home
 
 ***
 
-## 🚀 Key Technical Features
+##  Key Technical Features
 
 * **Custom Web Backend (`Code.gs`):** Handles URL routing via the `doGet(e)` function to serve the main job listing (`Index.html`) or a dedicated job detail page (`Job.html`).
 * **Automated Data Scraping:** The `runAllScrapers()` function uses **UrlFetchApp** to fetch, parse, and structure LinkedIn job data specifically for the Zambian market.
@@ -19,7 +19,7 @@ It demonstrates robust server-side logic (Scraping/Backend) and a dynamic, user-
 
 ***
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Backend & Logic:** Google Apps Script (JavaScript)
 * **Database:** Google Sheets
@@ -27,13 +27,13 @@ It demonstrates robust server-side logic (Scraping/Backend) and a dynamic, user-
 
 ***
 
-## ✍️ Note on Development Process
+## Note on Development Process
 
 To be transparent, I utilized **Google's Studio Bot (AI)** as a development partner. This helped accelerate the initial code generation, troubleshoot Apps Script-specific API calls, and refine the robust sharing logic, allowing me to focus on system architecture and solving the core problem: creating a functional, user-friendly job board from scratch.
 
 ***
 
-## 🏃 Getting Started
+## Getting Started
 
 1.  **Clone** this repository.
 2.  Create a new **Google Sheet** and open the **Extensions** > **Apps Script** editor.
